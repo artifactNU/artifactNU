@@ -1,7 +1,5 @@
 # Simon Nilsson Öberg
 
-![Profile picture](https://github.com/SimonNilssonOberg.png)
-
 ## About Me
 
 Hello! I'm Simon, a passionate student studying IT Infrastructure with a keen interest in cloud computing and artificial intelligence. I believe in the transformative power of these technologies to revolutionize the way we solve problems and improve efficiency.
