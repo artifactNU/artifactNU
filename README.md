@@ -10,7 +10,7 @@ Apart from my academic pursuits, I love to explore new technologies, attend tech
 
 ## Skills
 
-- Cloud Computing: Microsoft Azure
+- Cloud Computing: Azure, AWS, GCP
 - Machine Learning: Python, TensorFlow, Keras
 - Infrastructure as Code: Terraform, Ansible
 - Containerization: Docker, Kubernetes
