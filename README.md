@@ -8,17 +8,13 @@ Currently, I am pursuing my Professional Degree in IT Infrastructure from Nackad
 
 Apart from my academic pursuits, I love to explore new technologies, attend tech conferences, and engage in open-source projects. I am a firm believer in collaboration and continuous learning, as they are essential for personal and professional growth.
 
-## Skills
-
-- Cloud Computing: Azure, AWS, GCP
-- Machine Learning: Python, TensorFlow, Keras
-- Infrastructure as Code: Terraform, Ansible
-- Containerization: Docker, Kubernetes
-- Programming Languages: Python, HTML, JS
 
 ## Education
 
 - Professional Degree in IT Infrastructure, Nackademin (2023 - 2025)
+- Courses in physics, mathematics and computer science, Stockholms Universitet (2020-2022)
+- Electrical engineering, St:Eriks Gymnasium (2009-2012)
+
 
 ## Contact Me
 
