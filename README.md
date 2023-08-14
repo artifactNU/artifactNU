@@ -11,7 +11,7 @@ Apart from my academic pursuits, I love to explore new technologies, attend tech
 
 ## Education
 
-- Professional Degree in IT Infrastructure, Nackademin (2023 - 2025)
+- Professional degree in IT Infrastructure, Nackademin (2023 - 2025)
 - Courses in physics, mathematics and computer science, Stockholms Universitet (2020-2022)
 - Electrical engineering, St:Eriks Gymnasium (2009-2012)
 
