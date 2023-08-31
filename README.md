@@ -18,6 +18,6 @@ Apart from my academic pursuits, I love to explore new technologies, attend tech
 
 ## Contact Me
 
-- Email: simon.nilsson.oberg@gmail.com
+- Email: simon@artifact.nu
 
 Feel free to reach out to me if you have any questions or collaboration opportunities. I'm always eager to connect with fellow enthusiasts in cloud computing and AI. Let's learn and grow together!
